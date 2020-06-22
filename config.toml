@@ -1,3 +1,5 @@
+publishDir = "docs"
+
 # Page settings
 
 baseurl = "http://z2e3r40o.com/hireme"
