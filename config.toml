@@ -2,7 +2,7 @@ publishDir = "docs"
 
 # Page settings
 
-baseurl = "http://z2e3r40o.com/hireme"
+baseurl = "http://z2e3r40o.com/hireme/"
 languageCode = "en-us"
 title = "z2e3r40o Resume"
 theme = "hugo-orbit-theme"
