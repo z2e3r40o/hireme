@@ -77,36 +77,23 @@ disable404 = true
         title = "@z2e3r40o"
 
     # Education section
-    # [params.education]
-    #     enable = true
-    #     title = "Education"
+    [params.education]
+        enable = false
+        title = "Education"
 
-    #     [[params.education.list]]
-    #     degree = "MSc in Computer Science"
-    #     college = "University of London"
-    #     dates = "2006 - 2010"
-
-    #     [[params.education.list]]
-    #     degree = "BSc in Applied Mathematics"
-    #     college = "Bristol University"
-    #     dates = "2007 - 2011"
+        [[params.education.list]]
+        degree = "MSc in Computer Science"
+        college = "University of London"
+        dates = "2006 - 2010"
 
     # Languages section
-    # [params.language]
-    #     enable = true
-    #     title = "Languages"
+    [params.language]
+        enable = true
+        title = "Languages"
 
-    #     [[params.language.list]]
-    #     language = "English"
-    #     level = "Native"
-
-    #     [[params.language.list]]
-    #     language = "French"
-    #     level = "Professional"
-
-    #     [[params.language.list]]
-    #     language = "Russian"
-    #     level = "Professional"
+        [[params.language.list]]
+        language = "English"
+        level = "Native"
 
     # Interests section
     [params.interests]
