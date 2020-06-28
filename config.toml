@@ -4,7 +4,6 @@ publishDir = "docs"
 
 baseurl = "https://z2e3r40o.com/hireme/"
 languageCode = "en-us"
-title = "z2e3r40o Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = ""
 
@@ -18,6 +17,7 @@ disable404 = true
 # Meta
     description = "Hugo Responsive Resume/CV Theme for Developers"
     author = "Pavel Kanyshev"
+    title = "z2e3r40o Resume"
 
 # Theme styles
 
